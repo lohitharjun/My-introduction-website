@@ -32,7 +32,7 @@ portfolio/
 No build tools or server needed. Just clone the repo and open `INTRO WEBSITE.html` in a browser:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/lohitharjun/My-introduction-website.git
 cd portfolio
 open "INTRO WEBSITE.html"   # or double-click the file
 ```
